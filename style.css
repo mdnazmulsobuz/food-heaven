@@ -64,11 +64,11 @@ h2{
     text-align: center;
 }
 .receipe-area{
-    width: 33.33%; 
-    margin-left: 5%;
+    margin: 0 auto;
     padding: 15px;
     border-radius: 25px;
     box-shadow: 5px 5px 20px gray;
+    width: 27%;
 }
 .receipe-area:hover{
     box-shadow: 10px 10px 50px gray;
@@ -82,4 +82,20 @@ h3{
 .receipe-area-bottom{
     display: flex;
     margin: 3% 10%;
+}
+.social-area{
+    display: flex;
+    width:78%;
+    justify-content: center;
+    box-shadow: 5px 5px 20px gray;
+    margin: 100px auto;
+    border-radius: 25px;
+    box-shadow: 5px 5px 20px gray;
+    padding-bottom: 30px;
+}
+.social{
+    margin: 0 auto;
+}
+.social-area h1{
+    margin-bottom: 0px;
 }
