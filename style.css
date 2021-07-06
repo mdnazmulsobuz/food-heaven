@@ -67,7 +67,11 @@ h2{
     width: 33.33%; 
     margin-left: 5%;
     padding: 15px;
-    border: 1px solid #000;
+    border-radius: 25px;
+    box-shadow: 5px 5px 20px gray;
+}
+.receipe-area:hover{
+    box-shadow: 10px 10px 50px gray;
 }
 .receipe-area img{
     width: 100%;
@@ -77,6 +81,5 @@ h3{
 }
 .receipe-area-bottom{
     display: flex;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin: 3% 10%;
 }
