@@ -99,3 +99,10 @@ h3{
 .social-area h1{
     margin-bottom: 0px;
 }
+footer{
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding-top: 20px;
+    padding-bottom: 80px;
+}
