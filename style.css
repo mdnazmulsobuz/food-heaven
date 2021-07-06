@@ -63,13 +63,20 @@ h2{
 .receipe-area-top{
     text-align: center;
 }
-.receipe-area-bottom{
-    width: 30%;
+.receipe-area{
+    width: 33.33%; 
     margin-left: 5%;
+    padding: 15px;
+    border: 1px solid #000;
 }
-.receipe-area-bottom img{
+.receipe-area img{
     width: 100%;
 }
 h3{
     font-size: 30px;
+}
+.receipe-area-bottom{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
 }
