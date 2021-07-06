@@ -92,6 +92,7 @@ h3{
     border-radius: 25px;
     box-shadow: 5px 5px 20px gray;
     padding-bottom: 30px;
+    background-color: #EBF8FF;
 }
 .social{
     margin: 0 auto;
@@ -99,10 +100,31 @@ h3{
 .social-area h1{
     margin-bottom: 0px;
 }
+.delviery-area{
+    text-align: center;
+}
+.delivery-section{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+}
+.delivery-section h3{
+    font-size: 22px;
+}
+.deliver-path{
+    width: 25%;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 5px 5px 20px gray;
+    margin: 0 1%;
+    border-radius: 15px;
+}
+
 footer{
     text-align: center;
     background-color: #333;
     color: #fff;
     padding-top: 20px;
     padding-bottom: 80px;
+    margin-top: 100px;
 }
